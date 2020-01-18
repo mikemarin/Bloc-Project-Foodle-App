@@ -1,6 +1,8 @@
 #  Foodle - Conceptual iOS App
 
-![enter image description here](https://drive.google.com/open?id=1YdKMkksPY5F-jEC1dXX7sjhe09eVoeYi)
+
+| ![Splash Screen](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01-Logo-Screen.png)  |  ![Social Feed](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01B-SocialFeed-Signed-In.png) |  ![Alt Text](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01A-Categories-Signed-Out.png) |
+|---|---|---|
 
 ## OVERVIEW
 **The Concept of Foodle**

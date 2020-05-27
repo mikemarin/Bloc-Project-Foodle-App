@@ -1,8 +1,8 @@
 #  Foodle - Conceptual iOS App
 
-
-| ![Splash Screen](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01-Logo-Screen.png)  |  ![Social Feed](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01B-SocialFeed-Signed-In.png) |  ![Alt Text](https://raw.github.com/mikemarin/Bloc-Project-Foodle-App/master/_Assets/01A-Categories-Signed-Out.png) |
-|---|---|---|
+| ![Splash Screen](https://raw.github.com/mikemarin/_GitHub-MD-Images/master/Bloc/Foodle-MobileApp/Foodle-01-Splash.jpg) | ![Social Feed](https://raw.github.com/mikemarin/_GitHub-MD-Images/master/Bloc/Foodle-MobileApp/Foodle-02-Social-Feed.jpg) | ![Recipe Categories](https://raw.github.com/mikemarin/_GitHub-MD-Images/master/Bloc/Foodle-MobileApp/Foodle-03-Categories.jpg) |
+|:--:|:--:|:--:|
+| **Splash Screen** | **Social Feed** | **Recipe Categories** |
 
 ## OVERVIEW
 **The Concept of Foodle**
@@ -29,4 +29,4 @@ After reviewing this list again, I saw this as sort of a recipe with each of the
 
 That’s how the idea of Foodle was born.
 
-Follow the **link** to the case study
+Follow the [link](https://www.mikemarin.design/project-01.html) to the case study.
